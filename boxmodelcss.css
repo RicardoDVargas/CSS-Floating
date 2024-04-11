@@ -1,0 +1,52 @@
+/*.Conteudo1 {
+    background: grey;
+    border: 1px solid red;
+    width: 150px;
+    height: 150px;
+    float: right;
+}*/
+body {
+    margin: auto;
+    padding: auto;
+}
+.Conteudo {
+    background: white;
+    border-top: red;
+    border-bottom: blue;
+    border-right: red;
+    border-left: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    width: 245px;
+    height: 245px;
+    margin: 50px 60px;
+    float: left;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+.Projetos{
+    background-color: pink;
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    border-radius: 100px;
+    margin: 50px;
+    float: left;
+    text-align: center;
+}
+.clear  {
+    clear: both;
+}
+#principal {
+    border: 2px solid cyan;
+    border-radius: 3px;
+    background: black;
+}
+#secondary {
+    border: 2px solid green;
+    background: purple;
+}
